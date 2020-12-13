@@ -1,7 +1,13 @@
 import scala.io.Source
 import scala.AnyRef
+/*
+ * this one build on aoc03 but isn't really that much more complicated
+ * instead of verifying that the number of times a given char occurs 
+ * is within a given range, we are verifying that it occurs in one 
+ * and only one of the given locations, this is done using XOR
+ */
 
-object aoc1 extends App{
+object aoc04 extends App{
   var acc = 0;
   val pattern = """(\d+)-(\d+) (.): (.+)""".r;
   Source.fromFile("inputs/day2").getLines.foreach((line:String) => {

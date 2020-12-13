@@ -1,6 +1,13 @@
 import scala.io.Source
 
-object aoc1{
+/*
+ * each record may or may not inhabit more than one line
+ * so we separate records by detecting empty lines as the 
+ * delimiter between 2 records. then simply verify that all
+ * of the required fields are present for each record
+ */
+
+object aoc07{
   val pattern = "(.+):(.+)".r;
 
   def isValidPassport(str: String):Boolean = {

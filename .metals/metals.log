@@ -1,0 +1,2005 @@
+2020.12.12 20:20:12 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:20:13 INFO  time: initialize in 0.36s
+2020.12.12 20:20:25 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:20:25 INFO  time: initialize in 0.37s
+2020.12.12 20:20:26 WARN  Build server is not auto-connectable.
+2020.12.12 20:20:26 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:20:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/6.scala
+2020.12.12 20:20:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/6.scala
+2020.12.12 20:20:33 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:20:34 INFO  time: initialize in 0.35s
+2020.12.12 20:20:34 WARN  Build server is not auto-connectable.
+2020.12.12 20:20:34 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:20:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/5.scala
+2020.12.12 20:20:35 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 20:20:37 WARN  no build target for: /mnt/o/github/advent_of_code_2020/5.scala
+2020.12.12 20:20:43 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:20:43 INFO  time: initialize in 0.37s
+2020.12.12 20:20:44 WARN  Build server is not auto-connectable.
+2020.12.12 20:20:44 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:20:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/4.scala
+2020.12.12 20:20:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/4.scala
+2020.12.12 20:20:57 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:20:58 INFO  time: initialize in 0.35s
+2020.12.12 20:21:08 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:21:09 INFO  time: initialize in 0.34s
+2020.12.12 20:21:09 WARN  Build server is not auto-connectable.
+2020.12.12 20:21:09 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:21:09 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:21:10 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 8:22:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 12, 2020 8:23:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 12, 2020 8:26:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Dec 12, 2020 8:26:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Dec 12, 2020 8:27:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+Dec 12, 2020 8:31:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2020.12.12 20:31:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:32:39 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:32:39 INFO  time: initialize in 0.37s
+2020.12.12 20:32:43 WARN  Build server is not auto-connectable.
+2020.12.12 20:32:43 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:32:43 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:32:44 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 8:33:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Dec 12, 2020 8:33:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Dec 12, 2020 8:33:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Dec 12, 2020 8:34:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Dec 12, 2020 8:35:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2020.12.12 20:35:02 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:35:28 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:35:28 INFO  time: initialize in 0.37s
+2020.12.12 20:35:29 WARN  Build server is not auto-connectable.
+2020.12.12 20:35:29 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:35:29 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:35:30 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 20:36:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:36:42 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:36:42 INFO  time: initialize in 0.34s
+2020.12.12 20:36:46 WARN  Build server is not auto-connectable.
+2020.12.12 20:36:46 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:36:46 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:36:47 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 8:40:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Dec 12, 2020 8:41:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Dec 12, 2020 8:41:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Dec 12, 2020 8:41:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Dec 12, 2020 8:42:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2020.12.12 20:42:09 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:42:27 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 20:42:27 INFO  time: initialize in 0.34s
+2020.12.12 20:42:31 WARN  Build server is not auto-connectable.
+2020.12.12 20:42:31 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 20:42:31 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 20:42:32 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 8:44:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Dec 12, 2020 8:44:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Dec 12, 2020 8:45:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Dec 12, 2020 8:46:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Dec 12, 2020 8:47:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+Dec 12, 2020 8:47:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94
+Dec 12, 2020 8:50:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+Dec 12, 2020 8:51:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 109
+Dec 12, 2020 8:52:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 113
+Dec 12, 2020 8:52:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 116
+Dec 12, 2020 8:53:26 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 12, 2020 8:53:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 122
+Dec 12, 2020 8:53:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 123
+Dec 12, 2020 8:53:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+Dec 12, 2020 8:53:47 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 12, 2020 8:53:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 130
+Dec 12, 2020 8:55:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+Dec 12, 2020 8:55:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 158
+Dec 12, 2020 8:55:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+Dec 12, 2020 8:56:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+Dec 12, 2020 8:56:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191
+Dec 12, 2020 8:56:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 198
+Dec 12, 2020 8:56:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 199
+Dec 12, 2020 8:58:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 227
+Dec 12, 2020 8:58:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 237
+Dec 12, 2020 8:58:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+Dec 12, 2020 8:58:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 252
+Dec 12, 2020 8:59:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+2020.12.12 21:03:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+Dec 12, 2020 9:05:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 304
+Dec 12, 2020 9:07:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 320
+Dec 12, 2020 9:08:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 346
+Dec 12, 2020 9:08:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 367
+Dec 12, 2020 9:09:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 371
+Dec 12, 2020 9:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 374
+Dec 12, 2020 9:09:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 401
+Dec 12, 2020 9:09:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 404
+Dec 12, 2020 9:09:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 407
+Dec 12, 2020 9:09:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 409
+Dec 12, 2020 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 412
+Dec 12, 2020 9:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 414
+Dec 12, 2020 9:09:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 416
+Dec 12, 2020 9:09:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 419
+Dec 12, 2020 9:10:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 428
+Dec 12, 2020 9:10:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 431
+Dec 12, 2020 9:10:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 432
+Dec 12, 2020 9:10:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 438
+Dec 12, 2020 9:10:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+2020.12.12 21:10:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+Dec 12, 2020 9:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 460
+Dec 12, 2020 9:12:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 469
+Dec 12, 2020 9:12:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 489
+Dec 12, 2020 9:12:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 495
+Dec 12, 2020 9:12:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 497
+2020.12.12 21:13:05 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:13:35 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:13:36 INFO  time: initialize in 0.36s
+2020.12.12 21:13:36 WARN  Build server is not auto-connectable.
+2020.12.12 21:13:36 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:13:36 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:13:37 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:13:52 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:14:37 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:14:38 INFO  time: initialize in 0.36s
+2020.12.12 21:14:38 WARN  Build server is not auto-connectable.
+2020.12.12 21:14:38 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:14:38 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:14:39 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:15:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:15:49 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:15:50 INFO  time: initialize in 0.34s
+2020.12.12 21:15:54 WARN  Build server is not auto-connectable.
+2020.12.12 21:15:54 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:15:54 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:15:55 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:16:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:17:12 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:17:12 INFO  time: initialize in 0.34s
+2020.12.12 21:17:16 WARN  Build server is not auto-connectable.
+2020.12.12 21:17:16 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:17:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:17:17 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:17:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 12, 2020 9:18:20 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -51
+Dec 12, 2020 9:18:28 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -51
+2020.12.12 21:18:32 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:18:41 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:18:41 INFO  time: initialize in 0.34s
+2020.12.12 21:18:45 WARN  Build server is not auto-connectable.
+2020.12.12 21:18:45 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:18:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:18:46 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:19:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:19:19 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:19:19 INFO  time: initialize in 0.34s
+2020.12.12 21:19:19 WARN  Build server is not auto-connectable.
+2020.12.12 21:19:19 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:19:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:19:21 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:19:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:19:44 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:19:44 INFO  time: initialize in 0.34s
+2020.12.12 21:19:45 WARN  Build server is not auto-connectable.
+2020.12.12 21:19:45 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:19:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:19:46 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:20:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 12, 2020 9:20:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Dec 12, 2020 9:21:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+Dec 12, 2020 9:21:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+Dec 12, 2020 9:22:01 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -19
+Dec 12, 2020 9:22:08 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -19
+Dec 12, 2020 9:22:25 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -19
+Dec 12, 2020 9:22:35 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -29
+Dec 12, 2020 9:22:35 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -29
+Dec 12, 2020 9:22:39 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -19
+2020.12.12 21:22:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:22:59 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:23:00 INFO  time: initialize in 0.35s
+2020.12.12 21:23:04 WARN  Build server is not auto-connectable.
+2020.12.12 21:23:04 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:23:04 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:23:05 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:30:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2020.12.12 21:30:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:30:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:30:45 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:30:45 INFO  time: initialize in 0.34s
+2020.12.12 21:30:49 WARN  Build server is not auto-connectable.
+2020.12.12 21:30:49 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:30:49 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:30:50 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:31:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 12, 2020 9:31:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 12, 2020 9:31:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 12, 2020 9:31:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2020.12.12 21:31:42 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:31:43 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:32:11 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:32:11 INFO  time: initialize in 0.35s
+2020.12.12 21:32:11 WARN  Build server is not auto-connectable.
+2020.12.12 21:32:11 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:32:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:32:13 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:33:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2020.12.12 21:33:28 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:33:38 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:33:38 INFO  time: initialize in 0.33s
+2020.12.12 21:33:48 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:33:48 INFO  time: initialize in 0.32s
+2020.12.12 21:33:51 WARN  Build server is not auto-connectable.
+2020.12.12 21:33:51 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:33:51 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:33:52 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:34:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:34:50 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:34:51 INFO  time: initialize in 0.33s
+2020.12.12 21:34:55 WARN  Build server is not auto-connectable.
+2020.12.12 21:34:55 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:34:55 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:34:56 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:36:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 12, 2020 9:36:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 12, 2020 9:37:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2020.12.12 21:37:07 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:37:24 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:37:24 INFO  time: initialize in 0.33s
+2020.12.12 21:37:28 WARN  Build server is not auto-connectable.
+2020.12.12 21:37:28 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:37:28 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:37:29 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:37:36 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:38:40 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:38:41 INFO  time: initialize in 0.33s
+2020.12.12 21:38:44 WARN  Build server is not auto-connectable.
+2020.12.12 21:38:44 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:38:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:38:46 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:39:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Dec 12, 2020 9:40:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Dec 12, 2020 9:40:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+Dec 12, 2020 9:42:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Dec 12, 2020 9:42:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+2020.12.12 21:43:07 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:43:18 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:43:18 INFO  time: initialize in 0.33s
+2020.12.12 21:43:22 WARN  Build server is not auto-connectable.
+2020.12.12 21:43:22 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:43:22 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:43:23 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:44:02 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:44:10 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:44:10 INFO  time: initialize in 0.34s
+2020.12.12 21:44:14 WARN  Build server is not auto-connectable.
+2020.12.12 21:44:14 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:44:14 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:44:15 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:47:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 12, 2020 9:47:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Dec 12, 2020 9:47:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2020.12.12 21:47:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:48:00 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:48:00 INFO  time: initialize in 0.33s
+2020.12.12 21:48:04 WARN  Build server is not auto-connectable.
+2020.12.12 21:48:04 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:48:04 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:48:05 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:49:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2020.12.12 21:49:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:49:59 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:50:00 INFO  time: initialize in 0.32s
+2020.12.12 21:50:00 WARN  Build server is not auto-connectable.
+2020.12.12 21:50:00 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:50:00 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:50:01 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 9:50:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2020.12.12 21:50:51 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:51:10 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:51:11 INFO  time: initialize in 0.33s
+2020.12.12 21:51:14 WARN  Build server is not auto-connectable.
+2020.12.12 21:51:14 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:51:14 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:51:15 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:54:22 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:54:39 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:54:39 INFO  time: initialize in 0.33s
+2020.12.12 21:54:43 WARN  Build server is not auto-connectable.
+2020.12.12 21:54:43 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:54:43 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:54:44 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 21:54:56 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:55:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:55:52 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 21:55:52 INFO  time: initialize in 0.34s
+2020.12.12 21:55:53 WARN  Build server is not auto-connectable.
+2020.12.12 21:55:53 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 21:55:53 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 21:55:54 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 22:06:28 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.12 23:45:18 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 23:45:18 INFO  time: initialize in 0.35s
+2020.12.12 23:45:22 WARN  Build server is not auto-connectable.
+2020.12.12 23:45:22 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 23:45:22 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:45:23 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 23:45:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:47:28 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 23:47:28 INFO  time: initialize in 0.34s
+2020.12.12 23:47:32 WARN  Build server is not auto-connectable.
+2020.12.12 23:47:32 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 23:47:32 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:47:33 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 11:54:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 12, 2020 11:54:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 12, 2020 11:55:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Dec 12, 2020 11:55:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Dec 12, 2020 11:56:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+Dec 12, 2020 11:56:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+Dec 12, 2020 11:56:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+Dec 12, 2020 11:56:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Dec 12, 2020 11:57:09 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 12, 2020 11:57:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Dec 12, 2020 11:57:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Dec 12, 2020 11:57:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+Dec 12, 2020 11:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+Dec 12, 2020 11:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+Dec 12, 2020 11:57:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+2020.12.12 23:57:51 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:58:12 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 23:58:12 INFO  time: initialize in 0.33s
+2020.12.12 23:58:16 WARN  Build server is not auto-connectable.
+2020.12.12 23:58:16 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 23:58:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:58:17 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 23:58:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:58:42 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 23:58:42 INFO  time: initialize in 0.34s
+2020.12.12 23:58:46 WARN  Build server is not auto-connectable.
+2020.12.12 23:58:46 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 23:58:46 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:58:47 INFO  no build target: using presentation compiler with only scala-library
+Dec 12, 2020 11:59:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.12.12 23:59:02 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:59:18 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 23:59:19 INFO  time: initialize in 0.34s
+2020.12.12 23:59:22 WARN  Build server is not auto-connectable.
+2020.12.12 23:59:22 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 23:59:22 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:59:24 INFO  no build target: using presentation compiler with only scala-library
+2020.12.12 23:59:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:59:44 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.12 23:59:45 INFO  time: initialize in 0.34s
+2020.12.12 23:59:48 WARN  Build server is not auto-connectable.
+2020.12.12 23:59:48 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.12 23:59:48 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.12 23:59:50 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:00:21 WARN  no build target for: /mnt/o/github/advent_of_code_2020/9.scala
+2020.12.13 00:00:31 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:00:32 INFO  time: initialize in 0.34s
+2020.12.13 00:00:35 WARN  Build server is not auto-connectable.
+2020.12.13 00:00:35 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:00:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:00:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:00:36 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:07:25 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:07:25 INFO  time: initialize in 0.34s
+2020.12.13 00:07:26 WARN  Build server is not auto-connectable.
+2020.12.13 00:07:26 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:07:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:07:27 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:08:04 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:08:15 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:08:16 INFO  time: initialize in 0.33s
+2020.12.13 00:08:16 WARN  Build server is not auto-connectable.
+2020.12.13 00:08:16 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:08:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:08:17 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:10:38 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:10:47 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:10:47 INFO  time: initialize in 0.33s
+2020.12.13 00:11:11 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:11:12 INFO  time: initialize in 0.33s
+2020.12.13 00:11:15 WARN  Build server is not auto-connectable.
+2020.12.13 00:11:15 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:11:15 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:11:17 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:11:18 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:11:26 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:11:26 INFO  time: initialize in 0.33s
+2020.12.13 00:11:30 WARN  Build server is not auto-connectable.
+2020.12.13 00:11:30 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:11:30 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:11:31 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:11:55 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:12:03 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:12:03 INFO  time: initialize in 0.33s
+2020.12.13 00:12:35 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:12:35 INFO  time: initialize in 0.33s
+2020.12.13 00:12:39 WARN  Build server is not auto-connectable.
+2020.12.13 00:12:39 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:12:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:12:40 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:13:29 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:13:37 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:13:37 INFO  time: initialize in 0.33s
+2020.12.13 00:13:41 WARN  Build server is not auto-connectable.
+2020.12.13 00:13:41 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:13:41 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:13:42 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 12:14:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Dec 13, 2020 12:15:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Dec 13, 2020 12:15:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Dec 13, 2020 12:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2020.12.13 00:15:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:15:40 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:15:40 INFO  time: initialize in 0.33s
+2020.12.13 00:15:44 WARN  Build server is not auto-connectable.
+2020.12.13 00:15:44 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:15:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:15:45 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:15:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:16:09 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:16:09 INFO  time: initialize in 0.33s
+2020.12.13 00:16:13 WARN  Build server is not auto-connectable.
+2020.12.13 00:16:13 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:16:13 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:16:14 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:17:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:18:59 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:18:59 INFO  time: initialize in 0.33s
+2020.12.13 00:19:03 WARN  Build server is not auto-connectable.
+2020.12.13 00:19:03 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:19:03 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:19:04 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 12:19:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 12:19:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 13, 2020 12:19:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 13, 2020 12:20:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Dec 13, 2020 12:20:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Dec 13, 2020 12:20:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Dec 13, 2020 12:20:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+Dec 13, 2020 12:20:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+2020.12.13 00:20:53 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:21:13 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:21:14 INFO  time: initialize in 0.33s
+2020.12.13 00:21:17 WARN  Build server is not auto-connectable.
+2020.12.13 00:21:17 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:21:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:21:19 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 12:21:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 12:23:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Dec 13, 2020 12:23:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+Dec 13, 2020 12:25:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 137
+2020.12.13 00:25:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:25:53 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:25:53 INFO  time: initialize in 0.33s
+2020.12.13 00:25:57 WARN  Build server is not auto-connectable.
+2020.12.13 00:25:57 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:25:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:25:58 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 12:26:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2020.12.13 00:26:38 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 00:37:46 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:37:46 INFO  time: initialize in 0.37s
+2020.12.13 00:37:50 WARN  Build server is not auto-connectable.
+2020.12.13 00:37:50 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:37:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.13 00:37:51 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:39:02 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:39:02 INFO  time: initialize in 0.34s
+2020.12.13 00:39:03 WARN  Build server is not auto-connectable.
+2020.12.13 00:39:03 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:39:03 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:39:04 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:39:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/5.scala
+2020.12.13 00:39:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/6.scala
+2020.12.13 00:39:41 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:39:41 INFO  time: initialize in 0.34s
+2020.12.13 00:39:45 WARN  Build server is not auto-connectable.
+2020.12.13 00:39:45 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:39:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/8.scala
+2020.12.13 00:39:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:39:46 INFO  no build target: using presentation compiler with only scala-library
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/11.scala in Set[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/11.scala, 134, 134, 158)
+Dec 13, 2020 12:42:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+Dec 13, 2020 12:42:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2020.12.13 00:44:47 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:45:10 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:45:10 INFO  time: initialize in 0.33s
+2020.12.13 00:45:11 WARN  Build server is not auto-connectable.
+2020.12.13 00:45:11 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:45:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:45:12 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 00:45:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:48:20 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:48:20 INFO  time: initialize in 0.33s
+2020.12.13 00:48:24 WARN  Build server is not auto-connectable.
+2020.12.13 00:48:24 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:48:24 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:48:25 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 12:51:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2020.12.13 00:51:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 00:52:12 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 00:52:13 INFO  time: initialize in 0.33s
+2020.12.13 00:52:17 WARN  Build server is not auto-connectable.
+2020.12.13 00:52:17 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 00:52:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 00:52:18 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 12:52:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Dec 13, 2020 12:54:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Dec 13, 2020 12:55:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 171
+Dec 13, 2020 12:55:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 199
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/12.scala in Array[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/12.scala, 451, 451, 477)
+Dec 13, 2020 12:56:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 221
+Dec 13, 2020 12:57:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 227
+Dec 13, 2020 12:59:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+Dec 13, 2020 12:59:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 254
+Dec 13, 2020 1:01:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 283
+Dec 13, 2020 1:01:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 287
+Dec 13, 2020 1:02:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 296
+2020.12.13 01:02:18 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:02:29 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:02:30 INFO  time: initialize in 0.33s
+2020.12.13 01:02:33 WARN  Build server is not auto-connectable.
+2020.12.13 01:02:33 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:02:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:02:35 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:03:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Dec 13, 2020 1:04:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Dec 13, 2020 1:04:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+Dec 13, 2020 1:04:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+Dec 13, 2020 1:04:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Dec 13, 2020 1:04:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2020.12.13 01:04:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:04:59 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:04:59 INFO  time: initialize in 0.33s
+2020.12.13 01:05:03 WARN  Build server is not auto-connectable.
+2020.12.13 01:05:03 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:05:03 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:06:00 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:06:00 INFO  time: initialize in 0.34s
+2020.12.13 01:06:01 WARN  Build server is not auto-connectable.
+2020.12.13 01:06:01 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:06:01 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:06:02 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:06:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:06:41 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:06:41 INFO  time: initialize in 0.34s
+2020.12.13 01:06:45 WARN  Build server is not auto-connectable.
+2020.12.13 01:06:45 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:06:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:06:46 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:07:19 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 1:07:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 1:07:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2020.12.13 01:08:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:08:27 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:08:27 INFO  time: initialize in 0.33s
+2020.12.13 01:08:31 WARN  Build server is not auto-connectable.
+2020.12.13 01:08:31 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:08:31 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:08:32 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:08:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:08:59 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:09:00 INFO  time: initialize in 0.34s
+2020.12.13 01:09:03 WARN  Build server is not auto-connectable.
+2020.12.13 01:09:03 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:09:03 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:09:05 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:09:10 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:10 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:10 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:10 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 1:09:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2020.12.13 01:09:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:09:49 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:09:49 INFO  time: initialize in 0.33s
+2020.12.13 01:09:50 WARN  Build server is not auto-connectable.
+2020.12.13 01:09:50 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:09:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:09:51 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:12:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 13, 2020 1:12:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 13, 2020 1:12:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Dec 13, 2020 1:12:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Dec 13, 2020 1:12:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+Dec 13, 2020 1:13:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Dec 13, 2020 1:13:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+Dec 13, 2020 1:13:13 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 13, 2020 1:13:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+2020.12.13 01:13:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:13:33 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:13:33 INFO  time: initialize in 0.33s
+2020.12.13 01:13:34 WARN  Build server is not auto-connectable.
+2020.12.13 01:13:34 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:13:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:13:35 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:13:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:13:52 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:13:53 INFO  time: initialize in 0.33s
+2020.12.13 01:13:53 WARN  Build server is not auto-connectable.
+2020.12.13 01:13:53 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:13:53 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:13:54 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:14:07 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:14:26 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:14:26 INFO  time: initialize in 0.34s
+2020.12.13 01:14:26 WARN  Build server is not auto-connectable.
+2020.12.13 01:14:26 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:14:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:14:27 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:15:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Dec 13, 2020 1:15:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 13, 2020 1:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2020.12.13 01:16:00 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:16:10 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:16:10 INFO  time: initialize in 0.33s
+2020.12.13 01:16:11 WARN  Build server is not auto-connectable.
+2020.12.13 01:16:11 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:16:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:16:12 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:16:58 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 1:17:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 13, 2020 1:17:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 13, 2020 1:18:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2020.12.13 01:18:08 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:18:17 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:18:18 INFO  time: initialize in 0.33s
+2020.12.13 01:18:21 WARN  Build server is not auto-connectable.
+2020.12.13 01:18:21 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:18:21 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:18:23 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:19:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 13, 2020 1:20:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 1:20:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 13, 2020 1:20:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2020.12.13 01:20:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:20:53 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:20:54 INFO  time: initialize in 0.33s
+2020.12.13 01:20:58 WARN  Build server is not auto-connectable.
+2020.12.13 01:20:58 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:20:58 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:20:59 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:21:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2020.12.13 01:23:08 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:23:22 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:23:22 INFO  time: initialize in 0.33s
+2020.12.13 01:23:26 WARN  Build server is not auto-connectable.
+2020.12.13 01:23:26 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:23:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:23:27 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:23:29 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:23:47 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:23:47 INFO  time: initialize in 0.34s
+2020.12.13 01:23:51 WARN  Build server is not auto-connectable.
+2020.12.13 01:23:51 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:23:51 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:23:52 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:24:18 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 1:24:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2020.12.13 01:24:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:25:05 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:25:05 INFO  time: initialize in 0.33s
+2020.12.13 01:25:06 WARN  Build server is not auto-connectable.
+2020.12.13 01:25:06 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:25:06 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:25:07 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:25:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:25:30 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:25:31 INFO  time: initialize in 0.33s
+2020.12.13 01:25:35 WARN  Build server is not auto-connectable.
+2020.12.13 01:25:35 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:25:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:25:36 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:25:40 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:26:03 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:26:04 INFO  time: initialize in 0.34s
+2020.12.13 01:26:08 WARN  Build server is not auto-connectable.
+2020.12.13 01:26:08 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:26:08 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:26:09 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:26:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 13, 2020 1:26:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Dec 13, 2020 1:26:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+Dec 13, 2020 1:26:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2020.12.13 01:27:01 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:27:10 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:27:10 INFO  time: initialize in 0.33s
+2020.12.13 01:27:14 WARN  Build server is not auto-connectable.
+2020.12.13 01:27:14 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:27:14 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:27:15 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:34:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Dec 13, 2020 1:34:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Dec 13, 2020 1:35:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Dec 13, 2020 1:35:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+Dec 13, 2020 1:35:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Dec 13, 2020 1:36:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Dec 13, 2020 1:36:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+Dec 13, 2020 1:36:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 74
+Dec 13, 2020 1:36:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+Dec 13, 2020 1:37:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+Dec 13, 2020 1:37:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+Dec 13, 2020 1:37:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 98
+2020.12.13 01:37:21 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:37:40 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:37:40 INFO  time: initialize in 0.33s
+2020.12.13 01:37:41 WARN  Build server is not auto-connectable.
+2020.12.13 01:37:41 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:37:41 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:37:42 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:37:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 1:38:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Dec 13, 2020 1:38:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Dec 13, 2020 1:38:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2020.12.13 01:38:40 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:40:24 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:40:24 INFO  time: initialize in 0.33s
+2020.12.13 01:40:28 WARN  Build server is not auto-connectable.
+2020.12.13 01:40:28 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:40:28 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:40:29 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:40:47 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:41:02 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:41:02 INFO  time: initialize in 0.33s
+2020.12.13 01:41:06 WARN  Build server is not auto-connectable.
+2020.12.13 01:41:06 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:41:06 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:41:07 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:42:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:42:53 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:42:53 INFO  time: initialize in 0.33s
+2020.12.13 01:43:13 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:43:13 INFO  time: initialize in 0.33s
+2020.12.13 01:43:17 WARN  Build server is not auto-connectable.
+2020.12.13 01:43:17 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:43:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:43:18 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:43:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 13, 2020 1:43:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2020.12.13 01:43:54 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:44:02 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:44:02 INFO  time: initialize in 0.33s
+2020.12.13 01:44:06 WARN  Build server is not auto-connectable.
+2020.12.13 01:44:06 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:44:06 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:44:07 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:44:12 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:44:28 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:44:28 INFO  time: initialize in 0.34s
+2020.12.13 01:44:49 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:44:49 INFO  time: initialize in 0.33s
+2020.12.13 01:44:53 WARN  Build server is not auto-connectable.
+2020.12.13 01:44:53 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:44:53 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:44:54 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:45:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:45:20 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:45:20 INFO  time: initialize in 0.33s
+2020.12.13 01:45:24 WARN  Build server is not auto-connectable.
+2020.12.13 01:45:24 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:45:24 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:45:25 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 01:45:25 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@20a470e8 rejected from java.util.concurrent.ThreadPoolExecutor@7237a61c[Shutting down, pool size = 3, active threads = 2, queued tasks = 0, completed tasks = 49]
+	at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2063)
+	at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1379)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:99)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:97)
+	at java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:774)
+	at java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:750)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@28a564ea rejected from java.util.concurrent.ThreadPoolExecutor@7237a61c[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 50]
+	at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2063)
+	at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1379)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020.12.13 01:45:36 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:45:37 INFO  time: initialize in 0.33s
+2020.12.13 01:45:37 WARN  Build server is not auto-connectable.
+2020.12.13 01:45:37 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:45:37 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:45:38 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:45:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.12.13 01:46:04 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:46:12 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:46:12 INFO  time: initialize in 0.33s
+2020.12.13 01:46:16 WARN  Build server is not auto-connectable.
+2020.12.13 01:46:16 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:46:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:46:31 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:46:31 INFO  time: initialize in 0.33s
+2020.12.13 01:46:35 WARN  Build server is not auto-connectable.
+2020.12.13 01:46:35 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:46:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:46:36 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:46:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2020.12.13 01:46:58 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:47:08 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:47:08 INFO  time: initialize in 0.33s
+2020.12.13 01:47:09 WARN  Build server is not auto-connectable.
+2020.12.13 01:47:09 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:47:09 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:47:10 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:48:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2020.12.13 01:49:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:49:54 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:49:54 INFO  time: initialize in 0.33s
+2020.12.13 01:49:58 WARN  Build server is not auto-connectable.
+2020.12.13 01:49:58 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:49:58 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:49:59 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 1:52:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Dec 13, 2020 1:53:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+Dec 13, 2020 1:55:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 151
+Dec 13, 2020 1:59:00 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+2020.12.13 01:59:12 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:59:12 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:59:27 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 01:59:28 INFO  time: initialize in 0.33s
+2020.12.13 01:59:31 WARN  Build server is not auto-connectable.
+2020.12.13 01:59:31 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 01:59:31 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 01:59:33 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:03:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+2020.12.13 02:03:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:04:02 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:04:02 INFO  time: initialize in 0.33s
+2020.12.13 02:04:06 WARN  Build server is not auto-connectable.
+2020.12.13 02:04:06 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:04:06 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:04:07 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 02:04:31 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:04:31 INFO  time: initialize in 0.33s
+2020.12.13 02:04:35 WARN  Build server is not auto-connectable.
+2020.12.13 02:04:35 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:04:35 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:04:36 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:06:00 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Types$Type.computeMemberType(Types.scala:735)
+	at scala.reflect.internal.Types$Type.memberType(Types.scala:732)
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:674)
+	at scala.meta.internal.pc.completions.MatchCaseCompletions$CaseKeywordCompletion.<init>(MatchCaseCompletions.scala:49)
+	at scala.meta.internal.pc.completions.Completions.fromIdentApply$1(Completions.scala:423)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:443)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 2:06:00 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:674)
+	at scala.meta.internal.pc.completions.MatchCaseCompletions$CaseKeywordCompletion.<init>(MatchCaseCompletions.scala:49)
+	at scala.meta.internal.pc.completions.Completions.fromIdentApply$1(Completions.scala:423)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:443)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 13, 2020 2:06:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2020.12.13 02:06:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:06:55 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:06:55 INFO  time: initialize in 0.33s
+2020.12.13 02:06:59 WARN  Build server is not auto-connectable.
+2020.12.13 02:06:59 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:06:59 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:07:00 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:07:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2020.12.13 02:07:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:08:07 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:08:07 INFO  time: initialize in 0.33s
+2020.12.13 02:08:11 WARN  Build server is not auto-connectable.
+2020.12.13 02:08:11 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:08:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:08:12 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:11:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Dec 13, 2020 2:12:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 2:12:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Dec 13, 2020 2:12:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 13, 2020 2:12:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Dec 13, 2020 2:12:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Dec 13, 2020 2:12:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Dec 13, 2020 2:12:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Dec 13, 2020 2:12:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Dec 13, 2020 2:12:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Dec 13, 2020 2:13:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Dec 13, 2020 2:13:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Dec 13, 2020 2:13:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Dec 13, 2020 2:13:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Dec 13, 2020 2:13:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Dec 13, 2020 2:13:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Dec 13, 2020 2:13:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Dec 13, 2020 2:14:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Dec 13, 2020 2:14:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Dec 13, 2020 2:14:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Dec 13, 2020 2:14:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+Dec 13, 2020 2:14:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Dec 13, 2020 2:14:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+Dec 13, 2020 2:15:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Dec 13, 2020 2:15:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+Dec 13, 2020 2:15:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+Dec 13, 2020 2:15:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+2020.12.13 02:15:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:16:06 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:16:06 INFO  time: initialize in 0.33s
+2020.12.13 02:16:10 WARN  Build server is not auto-connectable.
+2020.12.13 02:16:10 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:16:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/1.scala
+2020.12.13 02:16:11 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:16:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 13, 2020 2:16:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+Dec 13, 2020 2:17:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+Dec 13, 2020 2:17:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94
+2020.12.13 02:18:01 WARN  no build target for: /mnt/o/github/advent_of_code_2020/1.scala
+2020.12.13 02:18:07 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:18:08 INFO  time: initialize in 0.34s
+2020.12.13 02:18:11 WARN  Build server is not auto-connectable.
+2020.12.13 02:18:11 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:18:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/2.scala
+2020.12.13 02:18:12 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:19:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2020.12.13 02:19:17 WARN  no build target for: /mnt/o/github/advent_of_code_2020/2.scala
+2020.12.13 02:19:23 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:19:23 INFO  time: initialize in 0.33s
+2020.12.13 02:19:27 WARN  Build server is not auto-connectable.
+2020.12.13 02:19:27 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:19:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/3.scala
+2020.12.13 02:19:28 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 02:22:15 WARN  no build target for: /mnt/o/github/advent_of_code_2020/3.scala
+2020.12.13 02:22:21 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:22:21 INFO  time: initialize in 0.33s
+2020.12.13 02:22:25 WARN  Build server is not auto-connectable.
+2020.12.13 02:22:25 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:22:25 WARN  no build target for: /mnt/o/github/advent_of_code_2020/4.scala
+2020.12.13 02:22:26 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:24:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 115
+Dec 13, 2020 2:24:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+Dec 13, 2020 2:24:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 128
+2020.12.13 02:24:55 WARN  no build target for: /mnt/o/github/advent_of_code_2020/4.scala
+2020.12.13 02:25:02 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:25:03 INFO  time: initialize in 0.34s
+2020.12.13 02:25:03 WARN  Build server is not auto-connectable.
+2020.12.13 02:25:03 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:25:03 WARN  no build target for: /mnt/o/github/advent_of_code_2020/5.scala
+2020.12.13 02:25:04 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:25:24 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 13, 2020 2:25:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Dec 13, 2020 2:25:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Dec 13, 2020 2:26:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2020.12.13 02:26:49 WARN  no build target for: /mnt/o/github/advent_of_code_2020/5.scala
+2020.12.13 02:26:56 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:26:56 INFO  time: initialize in 0.33s
+2020.12.13 02:26:57 WARN  Build server is not auto-connectable.
+2020.12.13 02:26:57 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:26:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/6.scala
+2020.12.13 02:26:58 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 2:27:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+Dec 13, 2020 2:27:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+Dec 13, 2020 2:27:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Dec 13, 2020 2:28:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2020.12.13 02:28:15 WARN  no build target for: /mnt/o/github/advent_of_code_2020/6.scala
+2020.12.13 02:28:22 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:28:23 INFO  time: initialize in 0.33s
+2020.12.13 02:28:27 WARN  Build server is not auto-connectable.
+2020.12.13 02:28:27 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:28:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/7.scala
+2020.12.13 02:28:28 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 02:29:55 WARN  no build target for: /mnt/o/github/advent_of_code_2020/7.scala
+2020.12.13 02:30:10 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:30:10 INFO  time: initialize in 0.34s
+2020.12.13 02:30:16 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:30:17 INFO  time: initialize in 0.33s
+2020.12.13 02:30:24 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:30:24 INFO  time: initialize in 0.34s
+2020.12.13 02:30:28 WARN  Build server is not auto-connectable.
+2020.12.13 02:30:28 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:30:28 WARN  no build target for: /mnt/o/github/advent_of_code_2020/11.scala
+2020.12.13 02:30:29 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 02:31:58 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 02:31:58 INFO  time: initialize in 0.33s
+2020.12.13 02:32:02 WARN  Build server is not auto-connectable.
+2020.12.13 02:32:02 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 02:32:02 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 02:32:03 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 02:32:05 WARN  no build target for: /mnt/o/github/advent_of_code_2020/12.scala
+2020.12.13 16:40:12 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:40:12 INFO  time: initialize in 0.34s
+2020.12.13 16:40:16 WARN  Build server is not auto-connectable.
+2020.12.13 16:40:16 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:40:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/06.scala
+2020.12.13 16:40:17 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 16:40:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/06.scala
+2020.12.13 16:44:40 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:44:40 INFO  time: initialize in 0.33s
+2020.12.13 16:44:44 WARN  Build server is not auto-connectable.
+2020.12.13 16:44:44 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:44:44 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:44:45 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 4:45:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 4:45:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2020.12.13 16:45:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:45:32 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:45:33 INFO  time: initialize in 0.34s
+2020.12.13 16:45:33 WARN  Build server is not auto-connectable.
+2020.12.13 16:45:33 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:45:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:45:34 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 4:48:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Dec 13, 2020 4:48:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Dec 13, 2020 4:48:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+Dec 13, 2020 4:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Dec 13, 2020 4:51:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Dec 13, 2020 4:51:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+Dec 13, 2020 4:51:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Dec 13, 2020 4:51:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2020.12.13 16:51:21 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:51:35 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:51:35 INFO  time: initialize in 0.33s
+2020.12.13 16:51:39 WARN  Build server is not auto-connectable.
+2020.12.13 16:51:39 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:51:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:51:40 INFO  no build target: using presentation compiler with only scala-library
+Dec 13, 2020 4:51:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 13, 2020 4:51:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 13, 2020 4:51:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 13, 2020 4:52:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2020.12.13 16:52:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:52:32 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:52:32 INFO  time: initialize in 0.34s
+2020.12.13 16:52:33 WARN  Build server is not auto-connectable.
+2020.12.13 16:52:33 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:52:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:52:34 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 16:52:40 WARN  no build target for: /mnt/o/github/advent_of_code_2020/01.scala
+2020.12.13 16:52:54 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:53:01 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:53:29 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:53:29 INFO  time: initialize in 0.34s
+2020.12.13 16:53:33 WARN  Build server is not auto-connectable.
+2020.12.13 16:53:33 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:53:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:53:34 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 16:53:42 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:53:58 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:54:17 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:54:17 INFO  time: initialize in 0.34s
+2020.12.13 16:54:21 WARN  Build server is not auto-connectable.
+2020.12.13 16:54:21 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:54:21 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:54:22 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 16:54:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:54:53 INFO  Started: Metals version 0.9.7 in workspace '/mnt/o/github/advent_of_code_2020' .
+2020.12.13 16:54:53 INFO  time: initialize in 0.33s
+2020.12.13 16:54:57 WARN  Build server is not auto-connectable.
+2020.12.13 16:54:57 WARN  no build tool detected in workspace '/mnt/o/github/advent_of_code_2020'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.13 16:54:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 16:54:58 INFO  no build target: using presentation compiler with only scala-library
+2020.12.13 17:06:19 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:08:36 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:09:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2020.12.13 17:09:38 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:10:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Dec 13, 2020 5:10:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2020.12.13 17:10:14 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:10:48 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:10:49 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:11:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2020.12.13 17:11:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:11:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+2020.12.13 17:11:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:11:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2020.12.13 17:11:47 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:15:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+Dec 13, 2020 5:15:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+Dec 13, 2020 5:15:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2020.12.13 17:15:32 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:16:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2020.12.13 17:16:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:18:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:673)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1975)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.pc.VirtualFileParams.checkCanceled(VirtualFileParams.java:25)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:76)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	... 9 more
+
+Dec 13, 2020 5:19:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+Dec 13, 2020 5:19:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 111
+2020.12.13 17:19:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:22:51 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:23:28 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:23:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:23:51 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:24:18 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 5:24:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 141
+Dec 13, 2020 5:24:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+2020.12.13 17:24:23 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/13.scala in Set[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/13.scala, 83, 83, 524)
+Dec 13, 2020 5:24:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+Dec 13, 2020 5:24:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 168
+2020.12.13 17:24:47 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:25:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 187
+2020.12.13 17:25:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:25:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 205
+Dec 13, 2020 5:25:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+2020.12.13 17:25:55 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/13.scala in Array[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/13.scala, 83, 83, 107)
+Dec 13, 2020 5:27:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 220
+Dec 13, 2020 5:27:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+Dec 13, 2020 5:27:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 244
+2020.12.13 17:27:43 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 251
+Dec 13, 2020 5:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 255
+2020.12.13 17:28:12 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:28:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 260
+2020.12.13 17:28:33 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:29:45 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:30:38 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 282
+2020.12.13 17:31:13 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:31:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:32:18 WARN  no build target for: /mnt/o/github/advent_of_code_2020/10.scala
+2020.12.13 17:32:34 WARN  no build target for: /mnt/o/github/advent_of_code_2020/09.scala
+2020.12.13 17:32:40 WARN  no build target for: /mnt/o/github/advent_of_code_2020/08.scala
+2020.12.13 17:32:48 WARN  no build target for: /mnt/o/github/advent_of_code_2020/03.scala
+2020.12.13 17:32:53 WARN  no build target for: /mnt/o/github/advent_of_code_2020/05.scala
+2020.12.13 17:32:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/06.scala
+2020.12.13 17:33:16 WARN  no build target for: /mnt/o/github/advent_of_code_2020/07.scala
+2020.12.13 17:33:22 WARN  no build target for: /mnt/o/github/advent_of_code_2020/08.scala
+2020.12.13 17:33:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:35:05 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:40:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 322
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/13.scala in Array[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/13.scala, 128, 128, 199)
+Dec 13, 2020 5:40:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 331
+Dec 13, 2020 5:41:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 341
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/13.scala in Array[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/13.scala, 146, 146, 160)
+Dec 13, 2020 5:41:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+Dec 13, 2020 5:42:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 368
+Dec 13, 2020 5:42:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 378
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/13.scala in Array[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/13.scala, 247, 247, 779)
+Dec 13, 2020 5:43:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 392
+Dec 13, 2020 5:49:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 415
+Dec 13, 2020 5:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 428
+Dec 13, 2020 5:50:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 433
+Dec 13, 2020 5:50:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 441
+Dec 13, 2020 5:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 452
+Dec 13, 2020 5:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 453
+something's wrong: no file:///mnt/o/github/advent_of_code_2020/13.scala in scala.collection.mutable.ArrayBuffer[<error>]RangePosition(file:///mnt/o/github/advent_of_code_2020/13.scala, 119, 119, 671)
+Dec 13, 2020 5:51:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462
+2020.12.13 17:53:12 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:54:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 479
+Dec 13, 2020 5:54:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 485
+Dec 13, 2020 5:54:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 490
+2020.12.13 17:54:29 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:54:54 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:55:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:57:04 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:57:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:57:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 505
+Dec 13, 2020 5:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 512
+Dec 13, 2020 5:58:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 518
+2020.12.13 17:58:07 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:58:39 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:58:56 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:59:10 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 17:59:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 5:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 523
+2020.12.13 17:59:42 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 18:00:02 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 18:00:08 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 18:02:08 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 18:03:27 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 6:04:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 562
+Dec 13, 2020 6:04:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 564
+Dec 13, 2020 6:04:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 566
+Dec 13, 2020 6:04:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 569
+Dec 13, 2020 6:05:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+Dec 13, 2020 6:06:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 617
+Dec 13, 2020 6:06:41 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 6:06:41 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 6:08:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 643
+Dec 13, 2020 6:10:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+2020.12.13 18:10:26 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 18:10:57 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 6:11:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 687
+2020.12.13 18:12:06 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 6:15:26 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+Dec 13, 2020 6:15:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 716
+2020.12.13 18:16:30 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+Dec 13, 2020 6:18:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 785
+Dec 13, 2020 6:19:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 809
+Dec 13, 2020 6:19:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 836
+Dec 13, 2020 6:19:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 837
+Dec 13, 2020 6:24:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1043
+2020.12.13 18:25:11 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala
+2020.12.13 18:26:50 WARN  no build target for: /mnt/o/github/advent_of_code_2020/13.scala

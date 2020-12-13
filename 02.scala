@@ -1,7 +1,12 @@
 import scala.io.Source
 import scala.AnyRef
+/*
+ * this one is basically the same question as aoc01
+ * just looking at combinations of 3 values instead
+ * of looking at combinations of 2
+ */
 
-object aoc1 extends App{
+object aoc02 extends App{
   var acc = 0;
   val arr : Array[Int] = Source.fromFile("inputs/day1").getLines.map( _.toInt).toArray
   val len = arr.size-1;
