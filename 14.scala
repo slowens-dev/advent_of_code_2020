@@ -27,7 +27,7 @@ import scala.collection.mutable.Map
  * this comment is probably confusing to read, it was confusing to write
 */
 
-object aoc13{
+object aoc14{
   val map = Map[String, Map[String, Int]]();
   var acc = 0;
 
