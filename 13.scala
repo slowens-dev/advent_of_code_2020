@@ -1,7 +1,7 @@
 import scala.io.Source
 import scala.collection.mutable.ArrayBuffer
 /*
- * this one is real doozie, had to bust out the recursion
+ * this one is a real doozie, had to bust out the recursion
  * first we pass an array holding only "shiny gold" to start, finding all bags that
  * can directly hold a shiny gold bag and putting them in an array
  *  we add the size of that array to our accumulator
