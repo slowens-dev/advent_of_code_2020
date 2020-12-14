@@ -1,5 +1,4 @@
 import scala.io.Source
-import scala.AnyRef
 /*
  * this one is essentially identical to aoc05 except we are doing multiple
  * traversals with different schemas, simply make a generic traversal method

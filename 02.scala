@@ -1,5 +1,4 @@
 import scala.io.Source
-import scala.AnyRef
 /*
  * this one is basically the same question as aoc01
  * just looking at combinations of 3 values instead

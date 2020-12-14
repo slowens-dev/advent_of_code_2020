@@ -1,5 +1,4 @@
 import scala.io.Source
-import scala.AnyRef
 /*
  * this one build on aoc03 but isn't really that much more complicated
  * instead of verifying that the number of times a given char occurs 

@@ -1,5 +1,4 @@
 import scala.io.Source
-import scala.AnyRef
 /*
  * this one is pretty simple, we can reuse our for structure from day 4
  * wherein each record may inhabit more than one line and an empty line

@@ -1,5 +1,4 @@
 import scala.io.Source
-import scala.AnyRef
 /*
  * this one is really simple, traverse the page via the given schema,
  * :: down one and to the right 3, using modulus on the rightward shifts

@@ -1,5 +1,4 @@
 import scala.io.Source
-import scala.AnyRef
 /*
  * split the data up with a regex use it to get the range of 
  * the number of times the given char may appear
