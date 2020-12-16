@@ -15,23 +15,16 @@ import scala.util.control.Breaks.{break, breakable}
 
 object aoc15 extends App{
     val lines:Array[String] = Source.fromFile("inputs/day8").getLines.toArray
-    val cmdPattern:Regex  = """([a-z]+) ([+-])(\d+)""".r
     var acc = 0; var i = 0;
 
     breakable(while( i < lines.size ){
       if (lines(i) == "exit") break
       else {
-        val cmdPattern(cmd, sign, num) = lines(i);
+        val split = lines(i).split(" ");
         lines(i) = "exit";
-        cmd match{
-          case "acc" => sign match{
-            case "+" =>{ acc +=  num.toInt; i += 1; }
-            case "-" =>{ acc -=  num.toInt; i += 1; }
-          }
-          case "jmp" => sign match{
-            case "+" => i += num.toInt;
-            case "-" => i -= num.toInt;
-          }
+        split(0) match{
+          case "acc" => { acc += split(1).toInt; i+=1; }
+          case "jmp" => i += split(1).toInt;
           case _ =>{ i += 1; }
         }
       }
