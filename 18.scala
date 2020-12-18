@@ -9,6 +9,13 @@ import scala.util.control.Breaks.{break, breakable}
  * that is our solution, otherwise start the next stream one value
  * deeper into the list
  * for each stream we track the highest and lowest value to compute the final answer
+ *
+ * a single loop solution could be done by tracking the first and last index in the stream
+ * if the accumulator becomes greater than the key we can subtract the value of the first
+ * index then shift that first index up one to the next value. 
+ * when the accumulator is still less than the key we can add the value of the last index
+ * if the accumulator is equal to the key we have our solution
+ * but I'm sleepy and this was faster to write.
  */
 
 object aoc18 extends App{
