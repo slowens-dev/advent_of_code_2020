@@ -13,7 +13,7 @@ import scala.io.Source
  * the total occupied cells for the cycle which had no swaps is our solution
 */
 
-object aoc extends App{
+object aoc21 extends App{
   def cycle(source:Array[String]):(Array[String], Int, Int)= {
     val borderLine = "."*(source(0).size+2)
     val arr = borderLine +: source.map('.'+_+'.') :+ borderLine;

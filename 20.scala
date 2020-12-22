@@ -19,7 +19,7 @@ import scala.collection.mutable.Map
  *      or breaking out and returning the final solution
  */
 
-object aoc extends App{
+object aoc20 extends App{
   def pathCount(arr:Array[Int], i:Int=0, paths:Map[Int, BigInt]=Map.empty[Int, BigInt])
   : BigInt = {
     if ( i == arr.size-1 ) return 1;
