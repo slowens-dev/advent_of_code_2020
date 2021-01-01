@@ -33,16 +33,8 @@ object aoc extends App{
   def to36bit(n:BigInt):String = {
     var out:String = "";
     var nn:BigInt = n;
-    for(i <- 5 to 1 by -1){
-      var pow_n:BigInt = 1 << 30;
-      pow_n = pow_n << i;
-      if( nn >= pow_n ){
-        nn = nn - pow_n;
-        out += "1";
-      }else out += "0";
-    }
-    for(i <- 30 to 0 by -1){
-      val pow_n = 1 << i;
+    for(i <- 35 to 0 by -1){
+      val pow_n = 1L << i;
       if( nn >= pow_n ){
         nn = nn - pow_n;
         out += "1";
@@ -55,14 +47,8 @@ object aoc extends App{
     val sr = s.reverse;
     for( i <- 0 to 35 ){
       if(sr.charAt(i) == '1'){
-        if(i <= 30){
-          val pow_n:BigInt = 1 << i;
-          out = out + pow_n;
-        }else{
-          val pow_n:BigInt = 1 << 30;
-          val pow_nn:BigInt = pow_n << (i-30)
-          out = out + pow_nn;
-        }
+        val pow_n:BigInt = 1L << i;
+        out = out + pow_n;
       }
     }
     return out;
